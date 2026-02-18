@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishansindhav&label=Profile%20views&color=0e75b6&style=flat" alt="kishansindhav" /> </p>
 
-- 🔭 I’m currently working on **Ava**
+- 🔭 I’m currently working on **Ava — Personal AI Assistant**
 
 - 🌱 I’m currently learning **More About AI/ML**
 
