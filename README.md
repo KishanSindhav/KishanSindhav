@@ -9,9 +9,10 @@
 
 - 💬 Ask me about **AI/ML and PYTHON**
 
-- 📫 How to reach me **[Send Me Mail]**(kishansindhav277@gmail.com)
+- 📫 How to reach me **[Send Me Mail](mailto:kishansindhav277@gmail.com)**
 
-- 📄 Know about my experiences **[Click here for Resume]**(https://drive.google.com/file/d/1i-DEGi_JQQZpvfiLE9g0Z6M3BIvkKKhw/view?usp=drive_link)
+- 📄 Know about my experiences **[Click here for Resume](https://drive.google.com/file/d/1i-DEGi_JQQZpvfiLE9g0Z6M3BIvkKKhw/view?usp=drive_link)**
+
 
 
 <<h3 align="left">Connect with me:</h3>
