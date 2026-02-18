@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **kishansindhav277@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i-DEGi_JQQZpvfiLE9g0Z6M3BIvkKKhw/view?usp=drive_link)
+- 📄 Know about my experiences [Click here for **Resume**](https://drive.google.com/file/d/1i-DEGi_JQQZpvfiLE9g0Z6M3BIvkKKhw/view?usp=drive_link)
+
 
 <<h3 align="left">Connect with me:</h3>
 <p align="left">
