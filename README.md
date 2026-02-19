@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[Send Me Mail](mailto:kishansindhav277@gmail.com)**
 
-- 📄 Know about my experiences **[Click here for Resume](https://drive.google.com/file/d/1i-DEGi_JQQZpvfiLE9g0Z6M3BIvkKKhw/view?usp=drive_link)**
+- 📄 Know about my experiences **[Click here for Resume](https://drive.google.com/file/d/14AFlDAF4Nq8gJVxAsZzWHxwMN8nd7TiC/view?usp=drivesdk)**
 
 
 
